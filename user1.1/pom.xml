@@ -3,9 +3,9 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.cloud.test</groupId>
-  <artifactId>UserProject</artifactId>
+  <artifactId>UserTask</artifactId>
   <version>1.1.0</version>
-  <name>user1.1</name>
+  <name>usertask-1.1</name>
   <description></description>
   <repositories>
     <repository>
